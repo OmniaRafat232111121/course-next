@@ -1,5 +1,5 @@
 import React from 'react'
-import Head from 'next/head'
+imp
 const Meta = ({title,keywords,description }) => {
   return (
     <Head>
