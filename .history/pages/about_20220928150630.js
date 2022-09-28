@@ -1,4 +1,4 @@
-import Meta from '../components/Meta'
+import Head from "next/head"
 const about = () => {
   return (
     <div>
